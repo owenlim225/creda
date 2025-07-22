@@ -11,7 +11,7 @@ icon: road
 * Launch Beta Version with Predefined Campaign Templates\
   Kick off live campaigns with early partners to showcase on-chain tracking and token reward distribution.
 * Onboard Early Projects to Creda\
-  Select Aptos and Solana-based projects for initial reward programs to drive ecosystem awareness.
+  Select Aptos-based projects for initial reward programs to drive ecosystem awareness.
 * Deploy Creda Smart Contracts\
   Finalize and audit contract infrastructure to ensure reliable on-chain activity tracking and point distribution.
 * Launch User Dashboard MVP\
